@@ -9,7 +9,7 @@ programador fullstack | ReactJS | NodeJs | Java
   <a style="display:flex;background-color:rgb(8,107,156);p:10px;" target="_blank" href="">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a style="background-color:rgb(8,107,156);p:10px;" target="_blank" href="https://marcu-xavier.vercel.app">
+  <a style="background-color:rgb(8,107,156);p:10px;" target="_blank" href="https://marcus-xavier.vercel.app">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </div>
