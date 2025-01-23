@@ -6,5 +6,5 @@ programador fullstack | ReactJS | NodeJs | Java
   <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs?username=vyinie&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed" />
 </div>
 <div style="dsiplay:flex;gap:8px;">
-  <a style="background:086b9c;p:10px" target="_blank" href="https://www.youtube.com">teste</a>
+  <a style="background:rgb(8, 107, 156);p:10px" target="blank" href="https://www.youtube.com">teste</a>
 </div>
