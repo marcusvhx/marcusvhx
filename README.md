@@ -7,4 +7,5 @@ programador fullstack | ReactJS | NodeJs | Java
 </div>
 <div style="dsiplay:flex;gap:8px;">
   <a style="background-color:rgb(8,107,156);p:10px;" target="_blank" href="https://www.youtube.com">teste</a>
+  <a style="background-color:rgb(8,107,156);p:10px;" target="_blank" href="https://www.youtube.com">teste</a><a style="background-color:rgb(8,107,156);p:10px;" target="_blank" href="https://www.youtube.com">teste</a>
 </div>
