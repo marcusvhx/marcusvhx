@@ -1,8 +1,7 @@
 ## Hi there 👋
-<a href="https://github.com/vyinie/github-readme-stats">
+<div>
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=vyinie" />
-
-</a>
-<a href="https://github.com/vyinie/convoychat">
+</div>
+<div>
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vyinie&layout=compact&langs_count=8&card_width=320" />
-</a>
+</div>
