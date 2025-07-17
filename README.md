@@ -33,6 +33,4 @@ Fullstack | ReactJS | NodeJs
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/marcusvhx/marcusvhx/output/snake.svg" alt="Snake animation" />
-
-###
+![snake gif](https://github.com/marcusvhx/marcusvhx/blob/output/github-contribution-grid-snake.svg)
