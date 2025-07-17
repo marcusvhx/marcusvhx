@@ -28,9 +28,3 @@ Fullstack | ReactJS | NodeJs
   </a>
     
 </div>
-
-###
-
-<br clear="both">
-
-![snake gif](https://github.com/marcusvhx/marcusvhx/blob/output/github-contribution-grid-snake.svg)
