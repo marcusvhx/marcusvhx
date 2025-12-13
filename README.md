@@ -8,7 +8,7 @@ ReactJS | NodeJs | typescript
 
 <div>  
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcusvhx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"  />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcusvhx&locale=en&hide_title=false&layout=compact&card_width=340&langs_count=5&theme=dark&hide_border=false" alt="languages graph"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcusvhx&locale=en&hide_title=false&layout=compact&card_width=340&langs_count=6&theme=dark&hide_border=false" alt="languages graph"  />
 </div>
 
 <br />
@@ -36,8 +36,11 @@ ReactJS | NodeJs | typescript
 
 <img src="https://raw.githubusercontent.com/marcusvhx/marcusvhx/output/snake.svg" alt="Snake animation" />
 
-## Meus melhores projetos
+### Meus melhores projetos
+<div>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcusvhx&repo=Finnance)](https://github.com/marcusvhx/Finnance)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcusvhx&repo=pais-de-pet)](https://github.com/marcusvhx/pais-de-pet)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcusvhx&repo=mhs_barber_shop)](https://github.com/marcusvhx/mhs_barber_shop)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcusvhx&repo=Finnance)](https://github.com/marcusvhx/Finnance)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcusvhx&repo=pais-de-pet)](https://github.com/marcusvhx/pais-de-pet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcusvhx&repo=mhs_barber_shop)](https://github.com/marcusvhx/mhs_barber_shop)
+</div>
