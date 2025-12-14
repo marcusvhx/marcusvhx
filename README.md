@@ -39,8 +39,8 @@ ReactJS | NodeJs | typescript
 ### Meus melhores projetos
 <div>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcusvhx&repo=Finnance)](https://github.com/marcusvhx/Finnance)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcusvhx&repo=pais-de-pet)](https://github.com/marcusvhx/pais-de-pet)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcusvhx&repo=mhs_barber_shop)](https://github.com/marcusvhx/mhs_barber_shop)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcusvhx&repo=Finnance&theme=dark)](https://github.com/marcusvhx/Finnance)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcusvhx&repo=pais-de-pet&theme=dark)](https://github.com/marcusvhx/pais-de-pet)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcusvhx&repo=mhs_barber_shop&theme=dark)](https://github.com/marcusvhx/mhs_barber_shop)
 
 </div>
